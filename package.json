@@ -1,0 +1,12 @@
+{
+  "name": "botsony",
+  "version": "1.0.0",
+  "description": "Bot para telegram en nodejs",
+  "main": "index.js",
+  "author": "sonyapp",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "weather-js": "^2.0.0"
+  }
+}
